@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Abdalhaleem.altamimi@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdalhaleem-altamimi-074b5123a](https://www.linkedin.com/in/abdalhaleem-altamimi)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/abdalhaleem-altamimi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
