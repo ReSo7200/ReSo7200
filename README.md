@@ -2,10 +2,19 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:e94560&height=160&section=header&text=ReSo7200&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=42&desc=🔵%20SOC%20Analyst%20by%20Day%20·%20🔴%
   20Pentester%20by%20Night&descAlignY=62&descSize=16" width="100%"/>                                                                                                                                                                                
   </div>                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                    
-  <br/>                                                                                                                                                                                                                                             
    
-  <div align="center">                                                                                                                                                                                                                              
+  <br/>                                                                                                                                                                                                                                             
+                                                            
+  <div align="center">
+
+  I hunt threats in the morning.
+  I become the threat at night.
+
+  </div>
+
+  <br/>
+
+  <div align="center">
     <a href="https://www.linkedin.com/in/abdalhaleem-altamimi">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
