@@ -6,13 +6,6 @@
   <br/>                                                                                                                                                                                                                                             
    
   <div align="center">                                                                                                                                                                                                                              
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%3E+Initializing+ReSo7200...;%3E+SOC+Analyst+%5B09%3A00+-+17%3A00%5D;%3E+Pentester+%5B17%3A00+-+00%3A00%
-  5D;%3E+Building%3A+InstaEclipse+%28Xposed%29;%3E+Status%3A+Always+hacking" alt="Typing SVG"/>
-  </div>
-
-  <br/>
-
-  <div align="center">
     <a href="https://www.linkedin.com/in/abdalhaleem-altamimi">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -42,7 +35,7 @@
   ### 🔴 Red Team
   `Penetration Testing` `Reverse Engineering`
   `Android Modding` `Xposed Framework`
-  `Exploit Development` `Recon`
+  `Cyber Intel` `Recon`
 
   </td>
   </tr>
