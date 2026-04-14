@@ -1,13 +1,13 @@
- <div align="center">                                                                                                                                                                                                                              
+<div align="center">                                                                                                                                                                                                                              
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:e94560&height=160&section=header&text=ReSo7200&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=42&desc=🔵%20SOC%20Analyst%20by%20Day%20·%20🔴%
-  20Pentester%20by%20Night&descAlignY=62&descSize=16" width="100%"/>
+  20Pentester%20by%20Night&descAlignY=62&descSize=16" width="100%"/>                                                                                                                                                                                
   </div>                                                                                                                                                                                                                                            
                                                                                                                                                                                                                                                     
   <br/>                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                    
-  <div align="center">                                      
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%3E+Initializing+ReSo7200...;%3E+Role%3A+SOC+Analyst+%5B09%3A00+-+17%3A00%5D;%3E+Role%3A+Penetration+Tes
-  ter+%5B17%3A00+-+00%3A00%5D;%3E+Side+project%3A+InstaEclipse+(Xposed);%3E+Status%3A+Always+hacking+something+%F0%9F%94%93" alt="Typing SVG"/>
+   
+  <div align="center">                                                                                                                                                                                                                              
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=%3E+Initializing+ReSo7200...;%3E+SOC+Analyst+%5B09%3A00+-+17%3A00%5D;%3E+Pentester+%5B17%3A00+-+00%3A00%
+  5D;%3E+Building%3A+InstaEclipse+%28Xposed%29;%3E+Status%3A+Always+hacking" alt="Typing SVG"/>
   </div>
 
   <br/>
